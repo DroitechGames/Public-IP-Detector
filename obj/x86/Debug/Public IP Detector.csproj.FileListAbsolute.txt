@@ -1,0 +1,10 @@
+F:\Desktop Dev\Droitech Games\Public IP Detector\Public IP Detector\bin\Debug\Public IP Detector.exe
+F:\Desktop Dev\Droitech Games\Public IP Detector\Public IP Detector\bin\Debug\Public IP Detector.pdb
+F:\Desktop Dev\Droitech Games\Public IP Detector\Public IP Detector\bin\Debug\GetPublicIP.dll
+F:\Desktop Dev\Droitech Games\Public IP Detector\Public IP Detector\bin\Debug\GetPublicIP.pdb
+F:\Desktop Dev\Droitech Games\Public IP Detector\Public IP Detector\obj\x86\Debug\Public IP Detector.csprojResolveAssemblyReference.cache
+F:\Desktop Dev\Droitech Games\Public IP Detector\Public IP Detector\obj\x86\Debug\Public_IP_Detector.Form1.resources
+F:\Desktop Dev\Droitech Games\Public IP Detector\Public IP Detector\obj\x86\Debug\Public_IP_Detector.Properties.Resources.resources
+F:\Desktop Dev\Droitech Games\Public IP Detector\Public IP Detector\obj\x86\Debug\Public IP Detector.csproj.GenerateResource.Cache
+F:\Desktop Dev\Droitech Games\Public IP Detector\Public IP Detector\obj\x86\Debug\Public IP Detector.exe
+F:\Desktop Dev\Droitech Games\Public IP Detector\Public IP Detector\obj\x86\Debug\Public IP Detector.pdb
